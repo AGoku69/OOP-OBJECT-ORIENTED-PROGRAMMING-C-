@@ -1,0 +1,7 @@
+E:\UET 2nd SEM\OOP\lab\Task6\bin\Debug\Task6.exe.config
+E:\UET 2nd SEM\OOP\lab\Task6\bin\Debug\Task6.exe
+E:\UET 2nd SEM\OOP\lab\Task6\bin\Debug\Task6.pdb
+E:\UET 2nd SEM\OOP\lab\Task6\obj\Debug\Task6.csproj.AssemblyReference.cache
+E:\UET 2nd SEM\OOP\lab\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+E:\UET 2nd SEM\OOP\lab\Task6\obj\Debug\Task6.exe
+E:\UET 2nd SEM\OOP\lab\Task6\obj\Debug\Task6.pdb

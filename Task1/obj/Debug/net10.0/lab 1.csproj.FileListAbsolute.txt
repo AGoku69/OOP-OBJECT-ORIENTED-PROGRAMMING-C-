@@ -1,0 +1,30 @@
+E:\UET 2nd SEM\OOP\lab\lab 1\bin\Debug\net10.0\lab 1.exe
+E:\UET 2nd SEM\OOP\lab\lab 1\bin\Debug\net10.0\lab 1.deps.json
+E:\UET 2nd SEM\OOP\lab\lab 1\bin\Debug\net10.0\lab 1.runtimeconfig.json
+E:\UET 2nd SEM\OOP\lab\lab 1\bin\Debug\net10.0\lab 1.dll
+E:\UET 2nd SEM\OOP\lab\lab 1\bin\Debug\net10.0\lab 1.pdb
+E:\UET 2nd SEM\OOP\lab\lab 1\obj\Debug\net10.0\lab 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\UET 2nd SEM\OOP\lab\lab 1\obj\Debug\net10.0\lab 1.AssemblyInfoInputs.cache
+E:\UET 2nd SEM\OOP\lab\lab 1\obj\Debug\net10.0\lab 1.AssemblyInfo.cs
+E:\UET 2nd SEM\OOP\lab\lab 1\obj\Debug\net10.0\lab 1.csproj.CoreCompileInputs.cache
+E:\UET 2nd SEM\OOP\lab\lab 1\obj\Debug\net10.0\lab 1.dll
+E:\UET 2nd SEM\OOP\lab\lab 1\obj\Debug\net10.0\refint\lab 1.dll
+E:\UET 2nd SEM\OOP\lab\lab 1\obj\Debug\net10.0\lab 1.pdb
+E:\UET 2nd SEM\OOP\lab\lab 1\obj\Debug\net10.0\lab 1.genruntimeconfig.cache
+E:\UET 2nd SEM\OOP\lab\lab 1\obj\Debug\net10.0\ref\lab 1.dll
+E:\UET 2nd SEM\OOP\lab\lab 1\obj\Debug\net10.0\lab 1.csproj.Up2Date
+E:\UET 2nd SEM\OOP\lab\Task1\bin\Debug\net10.0\lab 1.exe
+E:\UET 2nd SEM\OOP\lab\Task1\bin\Debug\net10.0\lab 1.deps.json
+E:\UET 2nd SEM\OOP\lab\Task1\bin\Debug\net10.0\lab 1.runtimeconfig.json
+E:\UET 2nd SEM\OOP\lab\Task1\bin\Debug\net10.0\lab 1.dll
+E:\UET 2nd SEM\OOP\lab\Task1\bin\Debug\net10.0\lab 1.pdb
+E:\UET 2nd SEM\OOP\lab\Task1\obj\Debug\net10.0\lab 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\UET 2nd SEM\OOP\lab\Task1\obj\Debug\net10.0\lab 1.AssemblyInfoInputs.cache
+E:\UET 2nd SEM\OOP\lab\Task1\obj\Debug\net10.0\lab 1.AssemblyInfo.cs
+E:\UET 2nd SEM\OOP\lab\Task1\obj\Debug\net10.0\lab 1.csproj.CoreCompileInputs.cache
+E:\UET 2nd SEM\OOP\lab\Task1\obj\Debug\net10.0\lab 1.dll
+E:\UET 2nd SEM\OOP\lab\Task1\obj\Debug\net10.0\refint\lab 1.dll
+E:\UET 2nd SEM\OOP\lab\Task1\obj\Debug\net10.0\lab 1.pdb
+E:\UET 2nd SEM\OOP\lab\Task1\obj\Debug\net10.0\lab 1.genruntimeconfig.cache
+E:\UET 2nd SEM\OOP\lab\Task1\obj\Debug\net10.0\ref\lab 1.dll
+E:\UET 2nd SEM\OOP\lab\Task1\obj\Debug\net10.0\lab 1.csproj.Up2Date

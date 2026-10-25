@@ -1,0 +1,7 @@
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Hospital_Patient_Management_System\Hospital_Patient_Management_System\bin\Debug\Hospital_Patient_Management_System.exe.config
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Hospital_Patient_Management_System\Hospital_Patient_Management_System\bin\Debug\Hospital_Patient_Management_System.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Hospital_Patient_Management_System\Hospital_Patient_Management_System\bin\Debug\Hospital_Patient_Management_System.pdb
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Hospital_Patient_Management_System\Hospital_Patient_Management_System\obj\Debug\Hospital_Patient_Management_System.csproj.AssemblyReference.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Hospital_Patient_Management_System\Hospital_Patient_Management_System\obj\Debug\Hospital_Patient_Management_System.csproj.CoreCompileInputs.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Hospital_Patient_Management_System\Hospital_Patient_Management_System\obj\Debug\Hospital_Patient_Management_System.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Hospital_Patient_Management_System\Hospital_Patient_Management_System\obj\Debug\Hospital_Patient_Management_System.pdb

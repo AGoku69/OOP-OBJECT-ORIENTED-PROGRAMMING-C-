@@ -1,0 +1,15 @@
+E:\UET 2nd SEM\OOP\lab\TEST\bin\Debug\net10.0\TEST.exe
+E:\UET 2nd SEM\OOP\lab\TEST\bin\Debug\net10.0\TEST.deps.json
+E:\UET 2nd SEM\OOP\lab\TEST\bin\Debug\net10.0\TEST.runtimeconfig.json
+E:\UET 2nd SEM\OOP\lab\TEST\bin\Debug\net10.0\TEST.dll
+E:\UET 2nd SEM\OOP\lab\TEST\bin\Debug\net10.0\TEST.pdb
+E:\UET 2nd SEM\OOP\lab\TEST\obj\Debug\net10.0\TEST.GeneratedMSBuildEditorConfig.editorconfig
+E:\UET 2nd SEM\OOP\lab\TEST\obj\Debug\net10.0\TEST.AssemblyInfoInputs.cache
+E:\UET 2nd SEM\OOP\lab\TEST\obj\Debug\net10.0\TEST.AssemblyInfo.cs
+E:\UET 2nd SEM\OOP\lab\TEST\obj\Debug\net10.0\TEST.csproj.CoreCompileInputs.cache
+E:\UET 2nd SEM\OOP\lab\TEST\obj\Debug\net10.0\TEST.dll
+E:\UET 2nd SEM\OOP\lab\TEST\obj\Debug\net10.0\refint\TEST.dll
+E:\UET 2nd SEM\OOP\lab\TEST\obj\Debug\net10.0\TEST.pdb
+E:\UET 2nd SEM\OOP\lab\TEST\obj\Debug\net10.0\TEST.genruntimeconfig.cache
+E:\UET 2nd SEM\OOP\lab\TEST\obj\Debug\net10.0\ref\TEST.dll
+E:\UET 2nd SEM\OOP\lab\TEST\obj\Debug\net10.0\TEST.csproj.Up2Date

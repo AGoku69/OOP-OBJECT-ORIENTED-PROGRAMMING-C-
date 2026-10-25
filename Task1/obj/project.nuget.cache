@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aXP27BlRErs=",
+  "success": true,
+  "projectFilePath": "E:\\UET 2nd SEM\\OOP\\lab\\Task1\\lab 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.2-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.2-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

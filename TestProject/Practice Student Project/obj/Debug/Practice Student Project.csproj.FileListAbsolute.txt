@@ -1,0 +1,2 @@
+E:\UET 2nd SEM\OOP\lab\TestProject\Practice Student Project\obj\Debug\Practice Student Project.csproj.AssemblyReference.cache
+E:\UET 2nd SEM\OOP\lab\TestProject\Practice Student Project\obj\Debug\Practice Student Project.csproj.CoreCompileInputs.cache

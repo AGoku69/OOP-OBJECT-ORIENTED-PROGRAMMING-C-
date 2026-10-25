@@ -1,0 +1,7 @@
+hello Mr Abdullah !
+how are you doing today?
+fine thanks for asking!
+how about you?
+alhumdulillah, I'm doing well too.
+
+ This is a new line added to the file ...

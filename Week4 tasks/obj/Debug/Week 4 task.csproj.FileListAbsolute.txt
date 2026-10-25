@@ -1,0 +1,7 @@
+E:\UET 2nd SEM\OOP\lab\TestProject\Week 4 task\bin\Debug\Week 4 task.exe.config
+E:\UET 2nd SEM\OOP\lab\TestProject\Week 4 task\bin\Debug\Week 4 task.exe
+E:\UET 2nd SEM\OOP\lab\TestProject\Week 4 task\bin\Debug\Week 4 task.pdb
+E:\UET 2nd SEM\OOP\lab\TestProject\Week 4 task\obj\Debug\Week 4 task.csproj.AssemblyReference.cache
+E:\UET 2nd SEM\OOP\lab\TestProject\Week 4 task\obj\Debug\Week 4 task.csproj.CoreCompileInputs.cache
+E:\UET 2nd SEM\OOP\lab\TestProject\Week 4 task\obj\Debug\Week 4 task.exe
+E:\UET 2nd SEM\OOP\lab\TestProject\Week 4 task\obj\Debug\Week 4 task.pdb

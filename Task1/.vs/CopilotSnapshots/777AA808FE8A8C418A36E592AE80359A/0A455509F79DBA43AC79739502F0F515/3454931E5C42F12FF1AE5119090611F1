@@ -1,0 +1,149 @@
+﻿namespace lab_1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter an integer: ");
+            int input = int.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + input);
+
+            Console.WriteLine("Enter a double: ");
+            double inputDouble = double.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputDouble);
+
+            Console.WriteLine("Enter a string: ");
+            string inputString = Console.ReadLine();
+            Console.WriteLine("You entered: " + inputString);
+
+            Console.WriteLine("Enter a boolean (true/false): ");
+            bool inputBool = bool.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputBool);
+
+            Console.WriteLine("Enter a character: ");
+            char inputChar = char.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputChar);
+
+            Console.WriteLine("Enter a decimal: ");
+            decimal inputDecimal = decimal.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputDecimal);
+
+            Console.WriteLine("Enter a float: ");
+            float inputFloat = float.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputFloat);
+
+            Console.WriteLine("Enter a long: ");
+            long inputLong = long.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputLong);
+
+            Console.WriteLine("Enter a short: ");
+            short inputShort = short.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputShort);
+
+            Console.WriteLine("Enter a byte: ");
+            byte inputByte = byte.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputByte);
+
+            Console.WriteLine("Enter a sbyte: ");
+            sbyte inputSByte = sbyte.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputSByte);
+
+            Console.WriteLine("Enter a uint: ");
+            uint inputUInt = uint.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputUInt);
+
+            Console.WriteLine("Enter a ulong: ");
+            ulong inputULong = ulong.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputULong);
+
+            Console.WriteLine("Enter a ushort: ");
+            ushort inputUShort = ushort.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputUShort);
+
+            Console.WriteLine("Enter a DateTime (yyyy-MM-dd): ");
+            DateTime inputDateTime = DateTime.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputDateTime.ToString("yyyy-MM-dd"));
+
+            Console.WriteLine("Enter a TimeSpan (hh:mm:ss): ");
+            TimeSpan inputTimeSpan = TimeSpan.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputTimeSpan.ToString(@"hh\:mm\:ss"));
+
+            Console.WriteLine("Enter a Guid: ");
+            Guid inputGuid = Guid.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputGuid.ToString());
+
+            Console.WriteLine("Enter a Uri: ");
+            Uri inputUri = new Uri(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputUri.ToString());
+
+            Console.WriteLine("Enter a BigInteger: ");
+            System.Numerics.BigInteger inputBigInteger = System.Numerics.BigInteger.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputBigInteger.ToString());
+
+            Console.WriteLine("Enter a Complex number (real, imaginary): ");
+            System.Numerics.Complex inputComplex = System.Numerics.Complex.Parse(Console.ReadLine());
+            Console.WriteLine("You entered: " + inputComplex.ToString());
+
+            Console.WriteLine("Enter a dynamic value: ");
+            dynamic inputDynamic = Console.ReadLine();
+            Console.WriteLine("You entered: " + inputDynamic.ToString());
+
+            Console.WriteLine("Enter an object: ");
+            object inputObject = Console.ReadLine();
+            Console.WriteLine("You entered: " + inputObject.ToString());
+
+            Console.WriteLine("Enter a nullable integer (or leave empty): ");
+            string nullableInput = Console.ReadLine();
+            int? inputNullableInt = string.IsNullOrEmpty(nullableInput) ? (int?)null : int.Parse(nullableInput);
+            Console.WriteLine("You entered: " + (inputNullableInt.HasValue ? inputNullableInt.Value.ToString() : "null"));
+
+            Console.WriteLine("Enter a nullable double (or leave empty): ");
+            string nullableDoubleInput = Console.ReadLine();
+            double? inputNullableDouble = string.IsNullOrEmpty(nullableDoubleInput) ? (double?)null : double.Parse(nullableDoubleInput);
+            Console.WriteLine("You entered: " + (inputNullableDouble.HasValue ? inputNullableDouble.Value.ToString() : "null"));
+
+            Console.WriteLine("Enter a nullable boolean (true/false or leave empty): ");
+            string nullableBoolInput = Console.ReadLine();
+            bool? inputNullableBool = string.IsNullOrEmpty(nullableBoolInput) ? (bool?)null : bool.Parse(nullableBoolInput);
+            Console.WriteLine("You entered: " + (inputNullableBool.HasValue ? inputNullableBool.Value.ToString() : "null"));
+
+            Console.WriteLine("Enter a nullable DateTime (yyyy-MM-dd or leave empty): ");
+            string nullableDateTimeInput = Console.ReadLine();
+            DateTime? inputNullableDateTime = string.IsNullOrEmpty(nullableDateTimeInput) ? (DateTime?)null : DateTime.Parse(nullableDateTimeInput);
+            Console.WriteLine("You entered: " + (inputNullableDateTime.HasValue ? inputNullableDateTime.Value.ToString("yyyy-MM-dd") : "null"));
+
+            Console.WriteLine("Enter a nullable TimeSpan (hh:mm:ss or leave empty): ");
+            string nullableTimeSpanInput = Console.ReadLine();
+            TimeSpan? inputNullableTimeSpan = string.IsNullOrEmpty(nullableTimeSpanInput) ? (TimeSpan?)null : TimeSpan.Parse(nullableTimeSpanInput);
+            Console.WriteLine("You entered: " + (inputNullableTimeSpan.HasValue ? inputNullableTimeSpan.Value.ToString(@"hh\:mm\:ss") : "null"));
+
+            Console.WriteLine("Enter a nullable Guid (or leave empty): ");
+            string nullableGuidInput = Console.ReadLine();
+            Guid? inputNullableGuid = string.IsNullOrEmpty(nullableGuidInput) ? (Guid?)null : Guid.Parse(nullableGuidInput);
+            Console.WriteLine("You entered: " + (inputNullableGuid.HasValue ? inputNullableGuid.Value.ToString() : "null"));
+
+            Console.WriteLine("Enter a nullable BigInteger (or leave empty): ");
+            string nullableBigIntegerInput = Console.ReadLine();
+            System.Numerics.BigInteger? inputNullableBigInteger = string.IsNullOrEmpty(nullableBigIntegerInput) ? (System.Numerics.BigInteger?)null : System.Numerics.BigInteger.Parse(nullableBigIntegerInput);
+            Console.WriteLine("You entered: " + (inputNullableBigInteger.HasValue ? inputNullableBigInteger.Value.ToString() : "null"));
+
+            Console.WriteLine("Enter a nullable Complex number (real, imaginary or leave empty): ");
+            string nullableComplexInput = Console.ReadLine();
+            System.Numerics.Complex? inputNullableComplex = string.IsNullOrEmpty(nullableComplexInput) ? (System.Numerics.Complex?)null : System.Numerics.Complex.Parse(nullableComplexInput);
+            Console.WriteLine("You entered: " + (inputNullableComplex.HasValue ? inputNullableComplex.Value.ToString() : "null"));
+
+            Console.WriteLine("Enter a nullable dynamic value (or leave empty): ");
+            string nullableDynamicInput = Console.ReadLine();
+            dynamic inputNullableDynamic = string.IsNullOrEmpty(nullableDynamicInput) ? null : nullableDynamicInput;
+            Console.WriteLine("You entered: " + (inputNullableDynamic != null ? inputNullableDynamic.ToString() : "null"));
+
+            Console.WriteLine("Enter a nullable object (or leave empty): ");
+            string nullableObjectInput = Console.ReadLine();
+            object inputNullableObject = string.IsNullOrEmpty(nullableObjectInput) ? null : nullableObjectInput;
+            Console.WriteLine("You entered: " + (inputNullableObject != null ? inputNullableObject.ToString() : "null"));
+
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadKey();
+        }
+    }
+}

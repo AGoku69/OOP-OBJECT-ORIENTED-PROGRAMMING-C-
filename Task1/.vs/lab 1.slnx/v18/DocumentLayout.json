@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UET 2nd SEM\\OOP\\lab\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{026152F8-15BF-44D1-2A62-DEBFE616ABAB}|lab 1.csproj|e:\\uet 2nd sem\\oop\\lab\\task1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026152F8-15BF-44D1-2A62-DEBFE616ABAB}|lab 1.csproj|solutionrelative:task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TASK1.cs",
+              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\lab\\Task1\\TASK1.cs",
+              "RelativeDocumentMoniker": "TASK1.cs",
+              "ToolTip": "E:\\UET 2nd SEM\\OOP\\lab\\Task1\\TASK1.cs",
+              "RelativeToolTip": "TASK1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T18:38:55.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
