@@ -1,0 +1,7 @@
+E:\UET 2nd SEM\OOP\lab\SystemManagmentApp\bin\Debug\SystemManagmentApp.exe.config
+E:\UET 2nd SEM\OOP\lab\SystemManagmentApp\bin\Debug\SystemManagmentApp.exe
+E:\UET 2nd SEM\OOP\lab\SystemManagmentApp\bin\Debug\SystemManagmentApp.pdb
+E:\UET 2nd SEM\OOP\lab\SystemManagmentApp\obj\Debug\SystemManagmentApp.csproj.AssemblyReference.cache
+E:\UET 2nd SEM\OOP\lab\SystemManagmentApp\obj\Debug\SystemManagmentApp.csproj.CoreCompileInputs.cache
+E:\UET 2nd SEM\OOP\lab\SystemManagmentApp\obj\Debug\SystemManagmentApp.exe
+E:\UET 2nd SEM\OOP\lab\SystemManagmentApp\obj\Debug\SystemManagmentApp.pdb
