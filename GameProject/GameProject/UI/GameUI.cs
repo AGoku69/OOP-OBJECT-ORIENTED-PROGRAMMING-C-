@@ -119,13 +119,78 @@ namespace GameProject.UI
         {
             // STUDENT TODO (UI task): explain attack, healing, winning, losing,
             // and scoring here. Clear the screen first and call Pause() last.
-            Console.WriteLine("\nInstructions have not been completed yet.");
-            Pause();
+            bool running = true;
+            while (running)
+            {
+                Console.Clear();
+                ShowTitle();
+                Console.WriteLine(" When you start the game you can choose a name for your player and then give the player a name\n then the mosters will appear on your screen and the game play will begin\n and of you want more info Select an option from below");
+                Console.WriteLine("1. instructions for Attacks");
+                Console.WriteLine("2. instructions for Healing");
+                Console.WriteLine("3. instructions for winning");
+                Console.WriteLine("4. instructions for losing");
+                Console.WriteLine("5. instructions for scoring");
+                Console.WriteLine("6. Exist");
+                Console.Write("Choose: ");
+                string choice = Console.ReadLine();
+                if (choice == "1") AttackINFO();
+                else if (choice == "2") HealingINFO();
+                else if (choice == "3") WinningINFO();
+                else if (choice == "4") LosingINFO();
+                else if (choice == "5") ScoringINFO();
+                else if (choice == "6") running = false;
+                else
+                {
+                    Console.WriteLine("\nInstructions have not been completed yet.");
+                    Pause();
+                }
+            }
+        }
+        private void AttackINFO()
+        {
+            Console.Clear();
+            Console.WriteLine("HOW THE ATTACKING WORKS");
+            Console.WriteLine("The default value for attack is set for both player and momster\n when the player uses the attack option the attack is calculated\n and a random plus or minus in the attack value\n and then stored to the take damage\n and then it is deducted from the monsters health ");
+            pause();
+        }
+        private void HealingINFO()
+        {
+            Console.Clear();
+            Console.WriteLine("HOW THE HEALING WORKS");
+            Console.WriteLine("The healing is set at a defalut value too\n as when the user uses the healing option \n it sees if the user has a potio or not first\n and if he does it adds or heals the players health restoring it");
+            pause();
+        }
+        private void WinningINFO()
+        {
+            Console.Clear();
+            Console.WriteLine("HOW THE WINNING WORKS");
+            Console.WriteLine("The program checks after very attack used \n that is where a player still alive or death it checks the players health and also monsters too\n if players is not alive then the mosters win\n and on winning each time against a moster the player gets a bonus in its remaining potions");
+            pause();
+        }
+        private void LosingINFO()
+        {
+            Console.Clear();
+            Console.WriteLine("HOW THE LOSING WORKS");
+            Console.WriteLine("The losing works jsut like winning but opposite\n when your player health gets below zero \n so you lose and the monsters win");
+            pause();
+        }
+        private void ScoringINFO()
+        {
+            Console.Clear();
+            Console.WriteLine("HOW THE SCORNING WORKS");
+            Console.WriteLine("The scoring works simply \n when the moster dies it has a value assigned to it \n the score value on defeating he monster is added to the players score");
+            pause();
         }
 
         private void Pause()
         {
+            Console.Clear();
             Console.WriteLine("\nPress Enter to return to the menu.");
+            Console.ReadLine();
+        }
+        private void pause()
+        {
+            Console.WriteLine("\nPress Enter to return to the INFO menu.");
             Console.ReadLine();
         }
     }

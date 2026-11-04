@@ -49,8 +49,18 @@ namespace GameProject.Services
 
         public int CalculateVictoryBonus(Player player)
         {
+            if (player.HealingPotions <= 0) return 0;
+            if(player.HealingPotions >=3)
+            {
+                NewMethod(player);
+                return 10;
+            }
 
-            return 0;
+        }
+
+        private static void NewMethod(Player player)
+        {
+            player.Health = player.Health + 10;
         }
 
         public void SaveResult(Player player, bool won)
@@ -73,7 +83,9 @@ namespace GameProject.Services
             // 6. Use nested loops to compare items, and use a temporary variable when swapping two items.
 
             // Fallback: the project stays runnable until students implement sorting.
+            
             return _repository.GetAll();
         }
+ 
     }
 }
