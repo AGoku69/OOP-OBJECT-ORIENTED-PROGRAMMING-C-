@@ -1,0 +1,110 @@
+﻿using System;
+using VotingSystemApp.Voter;
+
+namespace VotingSystemApp
+{
+    public class VotingUI
+    {
+        private readonly VotingService _votingService;
+        private readonly VoterService _voterService;
+        private readonly CandidateService _candidateService;
+
+        public VotingUI(VotingService votingService, VoterService voterService, CandidateService candidateService)
+        {
+            _votingService = votingService;
+            _voterService = voterService;
+            _candidateService = candidateService;
+        }
+
+        public void CastVoteMenu()
+        {
+            Console.Clear();
+            PrintSubHeader("Cast Your Vote");
+            Console.Write("Enter your Voter ID / CNIC: ");
+            string voterId = Console.ReadLine();
+
+            var voter = _voterService.GetVoter(voterId);
+            if (voter == null)
+            {
+                PrintError("Voter not found! Please register first.");
+                Pause();
+                return;
+            }
+
+            if (voter.HasVoted)
+            {
+                PrintError($"Access Denied, {voter.Name}! You have already cast your vote.");
+                Pause();
+                return;
+            }
+
+            var candidates = _candidateService.GetAllCandidates();
+            if (candidates.Count == 0)
+            {
+                Console.WriteLine("No candidates available to vote for.");
+                Pause();
+                return;
+            }
+
+            Console.WriteLine($"\nWelcome, {voter.Name}! Choose a candidate to vote for:\n");
+            foreach (var c in candidates)
+            {
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.WriteLine($"[{c.Id}] Name: {c.Name,-15} | Party: {c.Party}");
+                Console.ResetColor();
+            }
+
+            Console.Write("\nEnter Candidate ID: ");
+            if (int.TryParse(Console.ReadLine(), out int candidateId))
+            {
+                var candidate = _candidateService.GetCandidateById(candidateId);
+                if (candidate != null)
+                {
+                    _candidateService.IncrementVote(candidateId);
+                    _voterService.MarkVoterAsVoted(voterId);
+                    _votingService.RecordVote(voterId, candidateId);
+
+                    PrintSuccess($"\nSuccess! Your vote has been cast for {candidate.Name} ({candidate.Party}).");
+                }
+                else
+                {
+                    PrintError("Invalid Candidate ID.");
+                }
+            }
+            else
+            {
+                PrintError("Invalid input format.");
+            }
+            Pause();
+        }
+
+        private void PrintSubHeader(string title)
+        {
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine($"\n--- {title} ---");
+            Console.ResetColor();
+        }
+
+        private void PrintSuccess(string message)
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine(message);
+            Console.ResetColor();
+        }
+
+        private void PrintError(string message)
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine(message);
+            Console.ResetColor();
+        }
+
+        private void Pause()
+        {
+            Console.ForegroundColor = ConsoleColor.DarkGray;
+            Console.WriteLine("\nPress any key to continue...");
+            Console.ResetColor();
+            Console.ReadKey();
+        }
+    }
+}
