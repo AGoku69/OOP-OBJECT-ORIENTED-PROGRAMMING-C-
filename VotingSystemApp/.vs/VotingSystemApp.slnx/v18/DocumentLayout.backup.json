@@ -1,61 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\",
+  "WorkspaceRootPath": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|e:\\uet 2nd sem\\oop\\lab\\votingsystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|e:\\uet 2nd sem\\oop\\oop-object-oriented-programming-c-\\votingsystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|e:\\uet 2nd sem\\oop\\lab\\votingsystemapp\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|solutionrelative:adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|e:\\uet 2nd sem\\oop\\lab\\votingsystemapp\\voter\\voterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|solutionrelative:voter\\voterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|e:\\uet 2nd sem\\oop\\lab\\votingsystemapp\\candidate\\candidateui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\candidate\\candidateui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|solutionrelative:candidate\\candidateui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|e:\\uet 2nd sem\\oop\\lab\\votingsystemapp\\candidate\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|solutionrelative:adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\voter\\voterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|solutionrelative:voter\\voterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\candidate\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|solutionrelative:candidate\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|e:\\uet 2nd sem\\oop\\lab\\votingsystemapp\\voter\\voterui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\voter\\voterui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|solutionrelative:voter\\voterui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|e:\\uet 2nd sem\\oop\\lab\\votingsystemapp\\voter\\voterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\voter\\voterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|solutionrelative:voter\\voterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|e:\\uet 2nd sem\\oop\\lab\\votingsystemapp\\voter\\votermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\voter\\votermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|solutionrelative:voter\\votermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|e:\\uet 2nd sem\\oop\\lab\\votingsystemapp\\voting\\votingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\voting\\votingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|solutionrelative:voting\\votingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|e:\\uet 2nd sem\\oop\\lab\\votingsystemapp\\voting\\votingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\voting\\votingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|solutionrelative:voting\\votingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|e:\\uet 2nd sem\\oop\\lab\\votingsystemapp\\voting\\votingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\voting\\votingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|solutionrelative:voting\\votingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|e:\\uet 2nd sem\\oop\\lab\\votingsystemapp\\voting\\votingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\voting\\votingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|solutionrelative:voting\\votingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|e:\\uet 2nd sem\\oop\\lab\\votingsystemapp\\candidate\\candidatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\candidate\\candidatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|solutionrelative:candidate\\candidatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|e:\\uet 2nd sem\\oop\\lab\\votingsystemapp\\candidate\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\candidate\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28119927-03FB-4A20-B4C5-79D7F2E5BADA}|VotingSystemApp.csproj|solutionrelative:candidate\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -80,183 +80,170 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Program.cs",
+              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Program.cs",
+              "ToolTip": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-04T06:22:31.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AdminUI.cs",
-              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\AdminUI.cs",
+              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\AdminUI.cs",
               "RelativeDocumentMoniker": "AdminUI.cs",
-              "ToolTip": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\AdminUI.cs",
+              "ToolTip": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\AdminUI.cs",
               "RelativeToolTip": "AdminUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T06:26:49.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T06:26:49.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CandidateUI.cs",
-              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Candidate\\CandidateUI.cs",
+              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Candidate\\CandidateUI.cs",
               "RelativeDocumentMoniker": "Candidate\\CandidateUI.cs",
-              "ToolTip": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Candidate\\CandidateUI.cs",
+              "ToolTip": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Candidate\\CandidateUI.cs",
               "RelativeToolTip": "Candidate\\CandidateUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T06:31:52.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T06:31:52.264Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "CandidateService.cs",
-              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Candidate\\CandidateService.cs",
+              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Candidate\\CandidateService.cs",
               "RelativeDocumentMoniker": "Candidate\\CandidateService.cs",
-              "ToolTip": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Candidate\\CandidateService.cs",
+              "ToolTip": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Candidate\\CandidateService.cs",
               "RelativeToolTip": "Candidate\\CandidateService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAmwDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T06:33:01.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T06:33:01.054Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "CandidateRepository.cs",
-              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Candidate\\CandidateRepository.cs",
+              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Candidate\\CandidateRepository.cs",
               "RelativeDocumentMoniker": "Candidate\\CandidateRepository.cs",
-              "ToolTip": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Candidate\\CandidateRepository.cs",
+              "ToolTip": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Candidate\\CandidateRepository.cs",
               "RelativeToolTip": "Candidate\\CandidateRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T06:36:15.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T06:36:15.194Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "CandidateModel.cs",
-              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Candidate\\CandidateModel.cs",
+              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Candidate\\CandidateModel.cs",
               "RelativeDocumentMoniker": "Candidate\\CandidateModel.cs",
-              "ToolTip": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Candidate\\CandidateModel.cs",
+              "ToolTip": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Candidate\\CandidateModel.cs",
               "RelativeToolTip": "Candidate\\CandidateModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T06:36:57.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T06:36:57.337Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "VoterModel.cs",
-              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Voter\\VoterModel.cs",
+              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Voter\\VoterModel.cs",
               "RelativeDocumentMoniker": "Voter\\VoterModel.cs",
-              "ToolTip": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Voter\\VoterModel.cs",
+              "ToolTip": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Voter\\VoterModel.cs",
               "RelativeToolTip": "Voter\\VoterModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T06:37:52.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T06:37:52.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "VoterRepository.cs",
-              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Voter\\VoterRepository.cs",
+              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Voter\\VoterRepository.cs",
               "RelativeDocumentMoniker": "Voter\\VoterRepository.cs",
-              "ToolTip": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Voter\\VoterRepository.cs",
+              "ToolTip": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Voter\\VoterRepository.cs",
               "RelativeToolTip": "Voter\\VoterRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T06:38:13.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T06:38:13.534Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "VoterService.cs",
-              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Voter\\VoterService.cs",
+              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Voter\\VoterService.cs",
               "RelativeDocumentMoniker": "Voter\\VoterService.cs",
-              "ToolTip": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Voter\\VoterService.cs",
+              "ToolTip": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Voter\\VoterService.cs",
               "RelativeToolTip": "Voter\\VoterService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T06:38:30.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T06:38:30.936Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "VoterUI.cs",
-              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Voter\\VoterUI.cs",
+              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Voter\\VoterUI.cs",
               "RelativeDocumentMoniker": "Voter\\VoterUI.cs",
-              "ToolTip": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Voter\\VoterUI.cs",
+              "ToolTip": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Voter\\VoterUI.cs",
               "RelativeToolTip": "Voter\\VoterUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T06:38:42.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T06:38:42.734Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "VotingModel.cs",
-              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Voting\\VotingModel.cs",
+              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Voting\\VotingModel.cs",
               "RelativeDocumentMoniker": "Voting\\VotingModel.cs",
-              "ToolTip": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Voting\\VotingModel.cs",
+              "ToolTip": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Voting\\VotingModel.cs",
               "RelativeToolTip": "Voting\\VotingModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T06:39:12.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T06:39:12.332Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "VotingRepository.cs",
-              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Voting\\VotingRepository.cs",
+              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Voting\\VotingRepository.cs",
               "RelativeDocumentMoniker": "Voting\\VotingRepository.cs",
-              "ToolTip": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Voting\\VotingRepository.cs",
+              "ToolTip": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Voting\\VotingRepository.cs",
               "RelativeToolTip": "Voting\\VotingRepository.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAqwCUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T06:40:03.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T06:40:03.108Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "VotingService.cs",
-              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Voting\\VotingService.cs",
+              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Voting\\VotingService.cs",
               "RelativeDocumentMoniker": "Voting\\VotingService.cs",
-              "ToolTip": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Voting\\VotingService.cs",
+              "ToolTip": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Voting\\VotingService.cs",
               "RelativeToolTip": "Voting\\VotingService.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwBcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T06:40:18.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T06:40:18.882Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "VotingUI.cs",
-              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Voting\\VotingUI.cs",
+              "DocumentMoniker": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Voting\\VotingUI.cs",
               "RelativeDocumentMoniker": "Voting\\VotingUI.cs",
-              "ToolTip": "E:\\UET 2nd SEM\\OOP\\lab\\VotingSystemApp\\Voting\\VotingUI.cs",
+              "ToolTip": "E:\\UET 2nd SEM\\OOP\\OOP-OBJECT-ORIENTED-PROGRAMMING-C-\\VotingSystemApp\\Voting\\VotingUI.cs",
               "RelativeToolTip": "Voting\\VotingUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T06:40:32.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T06:40:32.981Z"
             }
           ]
         }
